@@ -396,6 +396,7 @@ span {
     .button__wrapper {
         display: flex;
         gap: 10px;
+        justify-content: space-between;
     }
     .wraper-flex-germania {
         margin-top: 80px;
